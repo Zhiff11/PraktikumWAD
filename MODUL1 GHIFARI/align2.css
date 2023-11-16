@@ -1,0 +1,11 @@
+.card {
+    margin: auto;
+    width: 60%;
+    padding: 10px
+}
+
+.form-select {
+    position:absolute;
+    bottom:-200px;
+}
+

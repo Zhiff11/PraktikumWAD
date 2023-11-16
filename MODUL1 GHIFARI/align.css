@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+h2{
+    text-align: left;
+    color: blue;
+}
+h3{
+    text-align: right;
+    color: palevioletred;
+}
+p{
+    text-align: center;
+    color: palegreen;
+}
+body{background-color: darkcyan;}
